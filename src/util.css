@@ -1,0 +1,10 @@
+.info-flag {
+  height: 80px;
+  width: 100%;
+  background-size: cover;
+  border-radius: 8px;
+}
+
+.info-name {
+  font-weight: 800;
+}
